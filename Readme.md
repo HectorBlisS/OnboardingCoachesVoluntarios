@@ -77,6 +77,10 @@ Ahora que sabes que nuestros coaches tienen un perfil que les permite ejecutar l
 
 Una vez que hayas leido el manifiesto, tendrás un mejor entendimiento de la cultura que un coach debe no solo proyectar, si no vivir y respirar al interactuar con nuestras estudiantes.
 
+Sabemos que si estas leyendo este documento es porque tienes una amplia experiencia en temas relacionados a los que nuestras estudiantes estan aprendiendo por cuenta propia, y sabemos que puedes añadir mucho valor a su proceso de aprendizaje, o que tal vez tienes una historia de éxito que compartir que ayudará a nuestras estudiantes a mantenerse motivadas y continuar con su proceso personal de aprendizaje, es por ello que tu rol cómo coach voluntario es sumamente importante y queremos que formes parte de el crecimiento dentro de la edición correspondiente en el bootcamp, por eso es que hemos puesto estas herramientas a tu disposición, no solo para beneficiarlas de poder interactuar contigo con el mindset correcto, si no también para que tu como experta(o) en tu rama puedas agregar valor viviendo la experiencia de contribuir a eliminar la brecha de genero.
+
+Es por ello, que existe este proceso, para que tu puedas ser oficialmente una(un) Coach voluntario(a).
+
 ## 6. Entregables mínimos
 
 Para poder avanzar con el proceso de onboarding y que puedas participar en una edición de nuestro bootcamp como Coach voluntario(a), necesitamos que completes algunos entregables mínimos:
