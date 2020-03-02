@@ -62,8 +62,17 @@ Cada una de nuestras estudiantes al finalizar los sprints asignados al proyecto,
 De esta manera eliminamos una rubrica (calificaciones) que no nos dá información correcta ni suficiente.
 
 ## 4. Coaches
+En laboratoria tenemos un manifiesto que nos ayuda a entender nuestro rol como coaches, y que a su vez funciona como un mini código de conducta, para nosotros nuestras postulantes/estudiantes/egresadas son lo más importante y por ello cuidamos la forma en la que interactuamos con ellas, para nunca tener respuestas guiadas por prejuicios. 
+
+Las relaciones interpersonales son la base de Laboratoria. Cada interacción que tenemos con una postulante/estudiante/egresada cuenta y el error se paga caro y por mucho tiempo. Nuestra relación con ellas es como la reputación: difícil de construir, pero muy fácil de perder. 
+
+Cada uno de nuestros coaches no solo ha sido evaluado para pertenecer al equipo, tambien se encuentra en constante entrenamiento y también tiene acceso a feedback por parte de las estudiantes y su equipo, mismo que le permite mejorar constantemente sus interacciones, esto puede ser retador para la mayoría pero estamos seguros de que de esta manera nuestros coaches pueden ofreser la mejor asesoría dentro del área de trabajo.
+
+la única cosa no negociable de cómo corremos el Bootcamp es seguir el valor de `We Care About Our Students`. No importa la metodología o la currícula que corramos, este valor siempre irá por encima de cualquier elemento de nuestro diseño.
 
 ## 5. Coaches voluntarios
+Ahora que sabes que nuestros coaches tienen un perfil que les permite ejecutar los valores de laboratoria sin conflictos dentro del area de trabajo queremos que tu también los conoscas. Si interactúas con postulantes/estudiantes/egresadas, este manifiesto es para ti. Léelo, y entiéndelo. Si quieres saber qué puede suceder cuando no se cumple este manifiesto, lee este artículo: [The high cost of a free coding bootcamp](https://www.theverge.com/2020/2/11/21131848/lambda-school-coding-bootcamp-isa-tuition-cost-free)
+
 
 ## 6. Entregables mínimos
 
